@@ -108,8 +108,8 @@ const SuccessPage = () => {
           alt="Cute Bear"
           className="w-48 h-48 mx-auto mb-6 rounded-lg"
         />
-        <h1 className="text-4xl md:text-5xl mb-6 text-[#ff4d6d]">Will you be my Valentine?</h1>
-        <p className="mb-8 text-lg opacity-80">To my gorgeous girlfriend, you make every day feel like Valentine's Day. But I'd love to make this week extra special for you. ❤️</p>
+        <h1 className="text-4xl md:text-5xl mb-6 text-[#ff4d6d]">Will you be my Valentine, Garima?</h1>
+        <p className="mb-8 text-lg opacity-80">To my gorgeous love, you make every day feel like Valentine's Day. But I'd love to make this week extra special for you. ❤️</p>
 
         <div className="flex flex-col md:flex-row gap-4 items-center justify-center">
           <motion.button
@@ -158,7 +158,7 @@ const JourneyPage = () => {
       name: "Propose Day",
       date: "Feb 8",
       icon: <Calendar className="text-red-500" />,
-      message: "I don't just want to be your boyfriend, I want to be your favorite person forever. Will you keep choosing me? 💍",
+      message: "Garima, I don't just want to be your Prince, I want to be your favorite person forever. Will you keep choosing me? 💍",
       quote: "In all the world, there is no heart for me like yours. — Maya Angelou",
       realDate: new Date('2026-02-08')
     },
@@ -212,7 +212,7 @@ const JourneyPage = () => {
       name: "Valentine's Day",
       date: "Feb 14",
       icon: <Heart className="text-red-600" />,
-      message: "You are my dream come true. I love you more than words can ever express. Happy Valentine's Day, my Queen! 👑❤️",
+      message: "Garima, you are my dream come true. I love you more than words can ever express. Happy Valentine's Day, My Love! 👑❤️",
       quote: "I love you because the entire universe conspired to help me find you. — Paulo Coelho",
       realDate: new Date('2026-02-14')
     }
