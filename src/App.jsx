@@ -149,7 +149,7 @@ const JourneyPage = () => {
       name: "Rose Day",
       date: "Feb 7",
       icon: <Star className="text-pink-500" />,
-      message: "To the most beautiful flower in the world. You don't need petals to be perfect; you just need to be you. 🌹",
+      message: "Garima, among all the roses in the world, you're the only one Prince wants to pick every single day. 🌹",
       quote: "I saw that you were perfect, and so I loved you. Then I saw that you were not perfect and I loved you even more. — Angelita Lim",
       realDate: new Date('2026-02-07')
     },
@@ -158,7 +158,7 @@ const JourneyPage = () => {
       name: "Propose Day",
       date: "Feb 8",
       icon: <Calendar className="text-red-500" />,
-      message: "Garima, I don't just want to be your Prince, I want to be your favorite person forever. Will you keep choosing me? 💍",
+      message: "Garima, I don't just want to be your Prince for a day, I want to be your 'forever'. Will you keep choosing me? 💍",
       quote: "In all the world, there is no heart for me like yours. — Maya Angelou",
       realDate: new Date('2026-02-08')
     },
@@ -167,7 +167,7 @@ const JourneyPage = () => {
       name: "Chocolate Day",
       date: "Feb 9",
       icon: <Coffee className="text-amber-700" />,
-      message: "Life is like a box of chocolates, but having you makes it the sweetest one possible. 🍫",
+      message: "Life with you is sweeter than any chocolate, Garima. You're the sweetness in Prince's soul. 🍫",
       quote: "Everything is better with you. Even the simplest chocolate tastes like a dream with you by my side.",
       realDate: new Date('2026-02-09')
     },
@@ -176,7 +176,7 @@ const JourneyPage = () => {
       name: "Teddy Day",
       date: "Feb 10",
       icon: <Gift className="text-orange-400" />,
-      message: "Whenever you feel lonely, just imagine this digital hug squeezing you tight. I'm always here. 🧸",
+      message: "Garima, whenever Prince isn't there to hold you, let this virtual hug keep you warm. 🧸",
       quote: "If I had a flower for every time I thought of you... I could walk through my garden forever. — Alfred Tennyson",
       realDate: new Date('2026-02-10')
     },
@@ -185,7 +185,7 @@ const JourneyPage = () => {
       name: "Promise Day",
       date: "Feb 11",
       icon: <Music className="text-blue-500" />,
-      message: "I promise to laugh at your jokes (even the bad ones) and hold your hand through every storm. 🤝",
+      message: "Prince promises to always protect your smile and hold your hand, Garima, through every high and low. 🤝",
       quote: "I love you not only for what you are, but for what I am when I am with you.",
       realDate: new Date('2026-02-11')
     },
@@ -194,7 +194,7 @@ const JourneyPage = () => {
       name: "Hug Day",
       date: "Feb 12",
       icon: <Sun className="text-yellow-500" />,
-      message: "A hug from you is my favorite place in the entire universe. It feels like home. 🤗",
+      message: "A hug from you, Garima, is the only kingdom Prince ever wants to rule. It feels like home. 🤗",
       quote: "Your arms feel more like home than any house ever did.",
       realDate: new Date('2026-02-12')
     },
@@ -203,7 +203,7 @@ const JourneyPage = () => {
       name: "Kiss Day",
       date: "Feb 13",
       icon: <Moon className="text-purple-500" />,
-      message: "One kiss from you and I'm on top of the world. Can't wait for a million more. 💋",
+      message: "Every kiss shared between Prince and Garima is a beautiful story written in the stars. 💋",
       quote: "You are my heart, my life, my one and only thought. — Arthur Conan Doyle",
       realDate: new Date('2026-02-13')
     },
@@ -212,7 +212,7 @@ const JourneyPage = () => {
       name: "Valentine's Day",
       date: "Feb 14",
       icon: <Heart className="text-red-600" />,
-      message: "Garima, you are my dream come true. I love you more than words can ever express. Happy Valentine's Day, My Love! 👑❤️",
+      message: "Garima, you are Prince's dream come true. You're the love of my life. Happy Valentine's Day! 👑❤️",
       quote: "I love you because the entire universe conspired to help me find you. — Paulo Coelho",
       realDate: new Date('2026-02-14')
     }
