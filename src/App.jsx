@@ -149,7 +149,7 @@ const JourneyPage = () => {
       name: "Rose Day",
       date: "Feb 7",
       icon: <Star className="text-pink-500" />,
-      message: "Garima, among all the roses in the world, you're the only one Prince wants to pick every single day. 🌹",
+      message: "Garima, among all the roses in the world, you're the only one I want to pick every single day. 🌹",
       quote: "I saw that you were perfect, and so I loved you. Then I saw that you were not perfect and I loved you even more. — Angelita Lim",
       realDate: new Date('2026-02-07')
     },
@@ -167,7 +167,7 @@ const JourneyPage = () => {
       name: "Chocolate Day",
       date: "Feb 9",
       icon: <Coffee className="text-amber-700" />,
-      message: "Life with you is sweeter than any chocolate, Garima. You're the sweetness in Prince's soul. 🍫",
+      message: "Life with you is sweeter than any chocolate, Garima. You're the sweetness in my soul. 🍫",
       quote: "Everything is better with you. Even the simplest chocolate tastes like a dream with you by my side.",
       realDate: new Date('2026-02-09')
     },
@@ -176,7 +176,7 @@ const JourneyPage = () => {
       name: "Teddy Day",
       date: "Feb 10",
       icon: <Gift className="text-orange-400" />,
-      message: "Garima, whenever Prince isn't there to hold you, let this virtual hug keep you warm. 🧸",
+      message: "Whenever I'm not there to hold you tight, Garima, let this digital hug remind you I'm always here. 🧸",
       quote: "If I had a flower for every time I thought of you... I could walk through my garden forever. — Alfred Tennyson",
       realDate: new Date('2026-02-10')
     },
@@ -185,7 +185,7 @@ const JourneyPage = () => {
       name: "Promise Day",
       date: "Feb 11",
       icon: <Music className="text-blue-500" />,
-      message: "Prince promises to always protect your smile and hold your hand, Garima, through every high and low. 🤝",
+      message: "I promise to always protect your smile and hold your hand, Garima, through every high and low. 🤝",
       quote: "I love you not only for what you are, but for what I am when I am with you.",
       realDate: new Date('2026-02-11')
     },
@@ -194,7 +194,7 @@ const JourneyPage = () => {
       name: "Hug Day",
       date: "Feb 12",
       icon: <Sun className="text-yellow-500" />,
-      message: "A hug from you, Garima, is the only kingdom Prince ever wants to rule. It feels like home. 🤗",
+      message: "Garima, a hug from you is the only place in the world where I truly feel at home. 🤗",
       quote: "Your arms feel more like home than any house ever did.",
       realDate: new Date('2026-02-12')
     },
@@ -203,7 +203,7 @@ const JourneyPage = () => {
       name: "Kiss Day",
       date: "Feb 13",
       icon: <Moon className="text-purple-500" />,
-      message: "Every kiss shared between Prince and Garima is a beautiful story written in the stars. 💋",
+      message: "Every kiss shared between us, Garima, is a beautiful story written in the stars. 💋",
       quote: "You are my heart, my life, my one and only thought. — Arthur Conan Doyle",
       realDate: new Date('2026-02-13')
     },
@@ -212,7 +212,7 @@ const JourneyPage = () => {
       name: "Valentine's Day",
       date: "Feb 14",
       icon: <Heart className="text-red-600" />,
-      message: "Garima, you are Prince's dream come true. You're the love of my life. Happy Valentine's Day! 👑❤️",
+      message: "Garima, you are my dream come true and the best thing that ever happened to me. Happy Valentine's Day! 👑❤️",
       quote: "I love you because the entire universe conspired to help me find you. — Paulo Coelho",
       realDate: new Date('2026-02-14')
     }
@@ -236,8 +236,8 @@ const JourneyPage = () => {
           animate={{ y: 0, opacity: 1 }}
           className="text-center mb-12"
         >
-          <h1 className="text-5xl md:text-6xl text-[#ff4d6d] drop-shadow-sm mb-4">Our Valentine's Journey</h1>
-          <p className="text-lg opacity-70">A special surprise for every day of this beautiful week...</p>
+          <h1 className="text-5xl md:text-6xl text-[#ff4d6d] drop-shadow-sm mb-4">Garima & Prince</h1>
+          <p className="text-lg opacity-70">A beautiful journey made just for you...</p>
         </motion.div>
 
         <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
